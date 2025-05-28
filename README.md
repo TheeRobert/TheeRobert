@@ -1,4 +1,4 @@
-## Seja bem vindo, espero que meus códigos o ajudem!
+## Seja bem-vindo! Espero que meus códigos te ajudem!
 
 
 <div style="display: inline_block"><br>
